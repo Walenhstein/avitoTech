@@ -25,7 +25,7 @@
 
 **1. Клонируйте репозиторий**
 \`\`\`bash
-git clone https://github.com/Valdo1824/avitoTech.git
+git clone https://github.com/Walenhstein/avitoTech.git
 cd твое-название-репозитория
 \`\`\`
 
